@@ -1,0 +1,22 @@
+# Raw data: the dunnhumby licence does not allow republishing it
+data/*
+!data/README.md
+
+# Power BI files can hold imported data, so keep them out for now
+*.pbix
+
+# Python
+__pycache__/
+*.pyc
+.venv/
+venv/
+.ipynb_checkpoints/
+
+# Credentials and local settings
+.env
+*service-account*.json
+
+# Operating system files
+.DS_Store
+Thumbs.db
+desktop.ini
