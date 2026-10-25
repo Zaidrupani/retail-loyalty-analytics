@@ -49,9 +49,7 @@ retail-loyalty/
 │   ├── brief2_summary.md
 │   ├── brief3_own_label.md
 │   └── brief3_summary.md
-├── docs/
-│   ├── dq_notes.md                 every data quality finding and decision
-│   └── data_stage_walkthrough.pdf  step-by-step walkthrough of loading, profiling and cleaning
+├── dq_notes.md                 every data quality finding and decision
 └── images/                         charts used in the summaries
 ```
 
